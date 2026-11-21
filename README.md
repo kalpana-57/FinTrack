@@ -1,16 +1,104 @@
-# React + Vite
+# FinTrack — Personal Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal finance dashboard built with React. Track income and expenses, manage monthly budgets, monitor spending, and stay informed with budget alerts.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Dashboard Overview** — View your financial summary, balance, income, and expenses.
+- **Transaction Management** — Add, edit, delete, search, and filter transactions.
+- **Budget Management** — Create and manage monthly spending limits by category.
+- **Smart Budget Alerts** — Identify budgets approaching or exceeding their limits.
+- **Notification Center** — View budget notifications and mark them as read.
+- **Data Persistence** — Keep transactions and budgets saved using browser Local Storage.
+- **CSV Export** — Export transaction records.
+- **Responsive Design** — Designed for desktop and mobile screens.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- Vite
+- CSS
+- Recharts
+- Lucide React
+- Browser Local Storage
 
-## Expanding the Oxlint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kalpana-57/FinTrack.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd FinTrack
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Project Structure
+
+```text
+FinTrack/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+```
+
+## What I Learned
+
+- Building reusable React components.
+- Managing application state with React hooks.
+- Creating interactive dashboards and charts.
+- Implementing transaction and budget management.
+- Working with browser Local Storage.
+- Designing responsive user interfaces.
+- Using Git and GitHub for version control.
+
+## Future Improvements
+
+- Backend integration and user authentication.
+- Cloud-based data synchronization.
+- Dynamic financial reports and analytics.
+- Additional financial planning features.
+
+## Author
+
+**Kalpana Kayala**
+
+GitHub: [@kalpana-57](https://github.com/kalpana-57)
+
+---
+
+If you find this project useful, consider giving the repository a ⭐.
