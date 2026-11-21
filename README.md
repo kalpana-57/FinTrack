@@ -95,17 +95,16 @@ FinTrack/
 ## Screenshots
 
 ### Dashboard
-![FinTrack Dashboard](./screenshots/dashboard.png)
+![FinTrack Dashboard](./Screenshots/dashboard.png)
 
 ### Transactions
-![FinTrack Transactions](./screenshots/transactions.png)
+![FinTrack Transactions](./Screenshots/transactions.png)
 
 ### Budgets
-![FinTrack Budgets](./screenshots/budgets.png)
+![FinTrack Budgets](./Screenshots/budgets.png)
 
 ### Notification Center
-![FinTrack Notifications](./screenshots/notifications.png)
-
+![FinTrack Notifications](./Screenshots/notifications.png)
 ## Author
 
 **Kalpana Kayala**
