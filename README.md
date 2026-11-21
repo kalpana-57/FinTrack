@@ -1,19 +1,23 @@
 # FinTrack — Personal Finance Dashboard
 
-A modern, responsive personal finance dashboard built with React. Track income and expenses, manage monthly budgets, monitor spending, and stay informed with budget alerts.
+A modern, responsive personal finance dashboard built with React. Track income and expenses, manage monthly budgets, monitor spending, and stay informed with smart budget alerts.
 
-## Features
+## 🚀 Live Demo
+
+**[Open FinTrack — Live Website](https://fintrack-e9zj5q4tt-kalpana-57s-projects.vercel.app)**
+
+## ✨ Features
 
 - **Dashboard Overview** — View your financial summary, balance, income, and expenses.
 - **Transaction Management** — Add, edit, delete, search, and filter transactions.
 - **Budget Management** — Create and manage monthly spending limits by category.
 - **Smart Budget Alerts** — Identify budgets approaching or exceeding their limits.
 - **Notification Center** — View budget notifications and mark them as read.
-- **Data Persistence** — Keep transactions and budgets saved using browser Local Storage.
+- **Data Persistence** — Save transactions and budgets using browser Local Storage.
 - **CSV Export** — Export transaction records.
 - **Responsive Design** — Designed for desktop and mobile screens.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React
 - JavaScript
@@ -23,7 +27,7 @@ A modern, responsive personal finance dashboard built with React. Track income a
 - Lucide React
 - Browser Local Storage
 
-## Getting Started
+## ⚙️ Getting Started
 
 ### Prerequisites
 
@@ -58,7 +62,7 @@ A modern, responsive personal finance dashboard built with React. Track income a
 
 5. Open the local URL displayed in your terminal.
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 FinTrack/
@@ -69,6 +73,11 @@ FinTrack/
 │   ├── App.css
 │   ├── index.css
 │   └── main.jsx
+├── Screenshots/
+│   ├── dashboard.png
+│   ├── transactions.png
+│   ├── budgets.png
+│   └── notifications.png
 ├── .gitignore
 ├── index.html
 ├── package.json
@@ -76,7 +85,25 @@ FinTrack/
 └── vite.config.js
 ```
 
-## What I Learned
+## 📸 Screenshots
+
+### Dashboard
+
+![FinTrack Dashboard](./Screenshots/dashboard.png)
+
+### Transactions
+
+![FinTrack Transactions](./Screenshots/transactions.png)
+
+### Budgets
+
+![FinTrack Budgets](./Screenshots/budgets.png)
+
+### Notification Center
+
+![FinTrack Notifications](./Screenshots/notifications.png)
+
+## 📚 What I Learned
 
 - Building reusable React components.
 - Managing application state with React hooks.
@@ -85,32 +112,23 @@ FinTrack/
 - Working with browser Local Storage.
 - Designing responsive user interfaces.
 - Using Git and GitHub for version control.
+- Deploying a React application using Vercel.
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Backend integration and user authentication.
 - Cloud-based data synchronization.
 - Dynamic financial reports and analytics.
 - Additional financial planning features.
-## Screenshots
 
-### Dashboard
-![FinTrack Dashboard](./Screenshots/dashboard.png)
-
-### Transactions
-![FinTrack Transactions](./Screenshots/transactions.png)
-
-### Budgets
-![FinTrack Budgets](./Screenshots/budgets.png)
-
-### Notification Center
-![FinTrack Notifications](./Screenshots/notifications.png)
-## Author
+## 👩‍💻 Author
 
 **Kalpana Kayala**
 
-GitHub: [@kalpana-57](https://github.com/kalpana-57)
+- GitHub: [@kalpana-57](https://github.com/kalpana-57)
+- Project: [FinTrack Repository](https://github.com/kalpana-57/FinTrack)
+- Live Demo: [FinTrack on Vercel](https://fintrack-e9zj5q4tt-kalpana-57s-projects.vercel.app)
 
 ---
 
-If you find this project useful, consider giving the repository a ⭐.
+⭐ If you find this project useful, consider giving the repository a star!
