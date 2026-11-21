@@ -92,6 +92,19 @@ FinTrack/
 - Cloud-based data synchronization.
 - Dynamic financial reports and analytics.
 - Additional financial planning features.
+## Screenshots
+
+### Dashboard
+![FinTrack Dashboard](./screenshots/dashboard.png)
+
+### Transactions
+![FinTrack Transactions](./screenshots/transactions.png)
+
+### Budgets
+![FinTrack Budgets](./screenshots/budgets.png)
+
+### Notification Center
+![FinTrack Notifications](./screenshots/notifications.png)
 
 ## Author
 
